@@ -1,6 +1,6 @@
 # Modeling Question Asking Using Neural Program Generation
 
-Codes for our CogSci 2021 paper *Modeling Question Asking Using Neural Program Generation* ([ArXiv](https://arxiv.org/abs/1907.09899)).
+Code for our CogSci 2021 paper *Modeling Question Asking Using Neural Program Generation* ([ArXiv](https://arxiv.org/abs/1907.09899)).
 
 ## Requirements:
 * Python3
